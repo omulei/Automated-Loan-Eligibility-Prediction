@@ -258,7 +258,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](images/output_26_0.png)
     
 
 
@@ -311,7 +311,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](images/output_29_0.png)
     
 
 
@@ -346,7 +346,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](images/output_31_0.png)
     
 
 
@@ -375,7 +375,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](images/output_33_0.png)
     
 
 
@@ -396,7 +396,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -438,7 +438,7 @@ Gender.div(Gender.sum(1).astype(float), axis=0).plot(kind="bar", figsize=(4,4))
 
 
     
-![png](output_39_1.png)
+![png](images/output_39_1.png)
     
 
 
@@ -477,7 +477,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -502,13 +502,13 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
 
     
-![png](output_43_1.png)
+![png](images/output_43_1.png)
     
 
 
@@ -535,7 +535,7 @@ train.groupby('Loan_Status')['ApplicantIncome'].mean().plot.bar()
 
 
     
-![png](output_46_1.png)
+![png](images/output_46_1.png)
     
 
 
@@ -554,7 +554,7 @@ P = plt.ylabel('Percentage')
 
 
     
-![png](output_48_0.png)
+![png](images/output_48_0.png)
     
 
 
@@ -575,7 +575,7 @@ P = plt.ylabel('Percentage')
 
 
     
-![png](output_50_0.png)
+![png](images/output_50_0.png)
     
 
 
@@ -597,7 +597,7 @@ P = plt.ylabel('Percentage')
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
@@ -618,7 +618,7 @@ P = plt.ylabel('Percentage')
 
 
     
-![png](output_54_0.png)
+![png](images/output_54_0.png)
     
 
 
@@ -645,7 +645,7 @@ sns.heatmap(matrix, vmax=.8, square=True, cmap="BuPu");
 
 
     
-![png](output_58_0.png)
+![png](images/output_58_0.png)
     
 
 
@@ -798,7 +798,7 @@ plt.show()
 
 
     
-![png](output_77_0.png)
+![png](images/output_77_0.png)
     
 
 
@@ -815,7 +815,7 @@ test['LoanAmount_log'] = np.log(test['LoanAmount'])
 
 
     
-![png](output_79_0.png)
+![png](images/output_79_0.png)
     
 
 
@@ -1012,7 +1012,7 @@ plt.show()
 
 
     
-![png](output_101_0.png)
+![png](images/output_101_0.png)
     
 
 
@@ -1041,7 +1041,7 @@ sns.distplot(train['Total_Income']);
 
 
     
-![png](output_105_0.png)
+![png](images/output_105_0.png)
     
 
 
@@ -1056,7 +1056,7 @@ test['Total_Income_log'] = np.log(test['Total_Income'])
 
 
     
-![png](output_107_0.png)
+![png](images/output_107_0.png)
     
 
 
@@ -1077,7 +1077,7 @@ sns.distplot(train['EMI']);
 
 
     
-![png](output_110_0.png)
+![png](images/output_110_0.png)
     
 
 
@@ -1093,7 +1093,7 @@ sns.distplot(train['Balance Income']);
 
 
     
-![png](output_111_0.png)
+![png](images/output_111_0.png)
     
 
 
@@ -1272,7 +1272,7 @@ importances.plot(kind='barh', figsize=(12,8))
 
 
     
-![png](output_123_1.png)
+![png](images/output_123_1.png)
     
 
 
