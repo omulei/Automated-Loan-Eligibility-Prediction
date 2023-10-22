@@ -1,4 +1,4 @@
-#  <span style="color: #1f77b4;">Loan Prediction Model</span>
+#  <span style="color: #1f77b4;">Automated Loan Eligibility Prediction</span>
 
 **Objective**: This model is designed to make classification modeling for a specific type of problem where we categorize data into different groups. Here's a step-by-step guide to understand and build this model:
 
